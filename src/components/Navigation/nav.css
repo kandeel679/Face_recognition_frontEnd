@@ -1,0 +1,7 @@
+.signout{
+    transition: all 300ms;
+}
+
+.signout:hover{
+    color: rgb(196, 27, 27);
+  }
